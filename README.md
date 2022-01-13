@@ -1,16 +1,17 @@
-Hi there, I'm Milan 👋 👋 👋 👋 👋 👋
+<center>Hi there, I'm Milan 👋 👋 👋 👋 👋 👋 </center>
 
+<hr style="border:0.9px thin lightgray"> </hr>
 
-I'm an ex truck driver with MSci fresh out of Flatiron BootCamp, so going outside my comfort zone to learn new skills is not new to me. 
+<center>Forward-thinking Software Engineer with a background working productively in dynamic environments. Fluent in Ruby and JavaScript programming languages used to develop software </center>
 
 - 🌱 I’m currently fixing my projects
 - 👉 Next on my learning list is JWT Auth in Redux and Rails
 - 👯 I’m looking to collaborate with newies to software industry learn more about algorithms and data structures
 - 🥅 2020 Goals: find a dream job in the IT industry, learn a new language (Python)
-- Hobbies: 
+- Hobbies:
   - 🚵🏼‍♂️ Bike riding
   - 🏃‍♂️ trail running
-  
+
 Connect with me:
 
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][github]
