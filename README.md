@@ -1,6 +1,6 @@
 <center>Hi there, I'm Milan 👋 👋 👋 👋 👋 👋 </center>
 
-<hr style="border:0.9px thin lightgray"> </hr>
+<hr style="border:0.9px ridge lightgray"> </hr>
 
 <center>Forward-thinking Software Engineer with a background working productively in dynamic environments. Fluent in Ruby and JavaScript programming languages used to develop software </center>
 
