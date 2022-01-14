@@ -2,7 +2,12 @@
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
-<p style="text-align:center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. Fluent in Ruby and JavaScript programming languages used to develop a small application </p>
+<p style="text-align:center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. </p>
+
+  <!-- <p> 🎭 Fun 💯 fact:  </p>
+
+- MSc(Ecology and Environmental protection)
+- CDL- truck driver</p> -->
 
 <!-- <hr style="border:0.9px ridge lightgray"> </hr> -->
 
@@ -90,13 +95,6 @@ const me = {
 
 [github]: https://github.com/zicna
 [linkedin]: https://www.linkedin.com/feed/
-
-<!-- !Pictures links -->
-
-[rails]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-hbc5uiUvkHxTIjHROe7pgI3f8TMFYUyGfoTPkIeUkttRD9xsBgNk7qC8z7ZGCWF23E&usqp=CAU
-
-
-
 
 <!-- ! resources -->
 <!-- *Github Stats: -->
