@@ -2,7 +2,7 @@
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
-<p style="text-align:center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. </p>
+<p align="center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. </p>
 
   <!-- <p> 🎭 Fun 💯 fact:  </p> -->
 
@@ -41,7 +41,7 @@
 <hr style="border:0.9px ridge lightgray"> </hr>
 <p style="color:orange">Connect with me:</p>
 
-<a  href="mailto:zivkovicmilan1987@gmail.com"><img height="30px" width="35px" style="border-radius:25%" src="https://www.howtogeek.com/wp-content/uploads/2019/03/gmail-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1"></a> 
+<a  href="mailto:zivkovicmilan1987@gmail.com"><img height="30px" width="35px" style="border-radius:25%" src="https://www.howtogeek.com/wp-content/uploads/2019/03/gmail-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1"></a>
 <a  href="https://www.linkedin.com/in/milan-m-zivkovic/"><img height="30px" width="35px" style="border-radius:25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></a>
 
 <hr style="border:0.9px ridge lightgray"> </hr>
