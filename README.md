@@ -24,14 +24,9 @@
 <code><img style="margin-right:5px" height="35" width="39" src="https://cdn-media-1.freecodecamp.org/images/VQhi-KgyeBh6jegrDc2zaLOGxsBWq0Bw5dNq" alt="git"></code>
 <code><img style="margin-right:5px" height="35" width="39" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code"></code>
 <hr style="border:0.9px ridge lightgray"> </hr>
-
+<details>
+<summary>See more:</summary>
 <p style="color:orange"> 😺 GitHub Stats  📈</p>
-
-<!-- ![Zicna's GitHub stats](https://github-readme-stats.vercel.app/api?username=zicna&show_icons=true&theme=radical) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicna)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicna&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <!-- * side by side pictures -->
 <div>
   <spam><img style="align:center" width="33%" src="https://github-readme-stats.vercel.app/api?username=zicna&show_icons=true&theme=radical" alt="GitHub stats">
@@ -71,6 +66,7 @@
 - 🚵🏼‍♂️ Bike riding
 - 🏃‍♂️ Trail running
 - 📜 History books and documentaries
+</details>
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 👇 👇 👇 Checkout my projects 👇 👇 👇
