@@ -54,13 +54,17 @@ const me = {
 </div>
 
 <hr style="border:0.9px ridge lightgray"> </hr>
+<p style="color:orange">Connect with me:</p>
+
+<a  href="mailto:zivkovicmilan1987@gmail.com"><img height="30px" width="35px" style="border-radius:25%" src="https://www.howtogeek.com/wp-content/uploads/2019/03/gmail-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1"></a> 
+<a  href="https://www.linkedin.com/in/milan-m-zivkovic/"><img height="30px" width="35px" style="border-radius:25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></a>
+
+<hr style="border:0.9px ridge lightgray"> </hr>
 
 <p style="color:orange"> 🌱 currently working on:</p>
   
   - adding features to my projects
   - solidified and expand skills
-
-<hr style="border:0.9px ridge lightgray"> </hr>
 
 <p style="color:orange"> 👉 Next on my learning list:</p>
 
@@ -68,20 +72,14 @@ const me = {
 - AWS
 - Node.js
 
-<hr style="border:0.9px ridge lightgray"> </hr>
-
 <p style="color:orange">👯 I’m looking to:</p> 
   
 - collaborate with newies to software industry and learn more about algorithms and data structures
-
-<hr style="border:0.9px ridge lightgray"> </hr>
 
 <p style="color:orange">🥅 2020 Goals:</p>
 
 - step into IT industry
 - learn a new language (Python)
-
-<hr style="border:0.9px ridge lightgray"> </hr>
 
 <p style="color:orange">Hobbies:</p>
 
@@ -89,12 +87,8 @@ const me = {
 - 🏃‍♂️ Trail running
 - 📜 History books and documentaries
 
-<hr style="border:0.9px ridge lightgray"> </hr>
-
-<p style="color:orange">Connect with me:</p>
-
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][github]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][linkedin]
+<!-- [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][github]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][linkedin] -->
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 👇 👇 👇 Checkout my project 👇 👇 👇
