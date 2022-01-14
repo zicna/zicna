@@ -4,20 +4,7 @@
 
 <p style="text-align:center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. </p>
 
-  <!-- <p> 🎭 Fun 💯 fact:  </p>
-
-- MSc(Ecology and Environmental protection)
-- CDL- truck driver</p> -->
-
-<!-- <hr style="border:0.9px ridge lightgray"> </hr> -->
-
-<!-- ``` javascript
-const me = {
-
-
-}
-
-``` -->
+  <!-- <p> 🎭 Fun 💯 fact:  </p> -->
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
@@ -41,13 +28,11 @@ const me = {
 <p style="color:orange"> 😺 GitHub Stats  📈</p>
 
 <!-- ![Zicna's GitHub stats](https://github-readme-stats.vercel.app/api?username=zicna&show_icons=true&theme=radical) -->
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicna)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicna&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ! side by side pictures -->
-
+<!-- * side by side pictures -->
 <div>
   <spam><img style="align:center" width="33%" src="https://github-readme-stats.vercel.app/api?username=zicna&show_icons=true&theme=radical" alt="GitHub stats">
   <spam><img style="align:center" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicna&layout=compact&show_icons=true&theme=radical" alt="Most used Languages"><div>
@@ -87,15 +72,11 @@ const me = {
 - 🏃‍♂️ Trail running
 - 📜 History books and documentaries
 
-<!-- [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][github]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][linkedin] -->
-
 <hr style="border:0.9px ridge lightgray"> </hr>
-👇 👇 👇 Checkout my project 👇 👇 👇
-<hr style="border:0.9px ridge lightgray"> </hr>
+👇 👇 👇 Checkout my projects 👇 👇 👇
 
-[github]: https://github.com/zicna
-[linkedin]: https://www.linkedin.com/feed/
+<!-- [github]: https://github.com/zicna
+[linkedin]: https://www.linkedin.com/feed/ -->
 
 <!-- ! resources -->
 <!-- *Github Stats: -->
