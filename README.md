@@ -85,3 +85,5 @@
 <!--  https://dev.to/zicna/path-to-better-readmemd-through-markdown-syntax-42hd-->
 <!-- * Other resources -->
 <!-- https://dev.to/github/10-standout-github-profile-readmes-h2o -->
+<!-- * collapsible section -->
+<!-- https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab -->
