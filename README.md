@@ -1,24 +1,25 @@
 
 
-<h4 style="text-align:center"> <center>Hi there, I'm Milan 👋  </center></h4>
+<h4 style="text-align:center"> Hi there, I'm Milan 👋 </h4>
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
 <p style="text-align:center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. Fluent in Ruby and JavaScript programming languages used to develop a small application </p>
 
-<hr style="border:0.9px ridge lightgray"> </hr>
+<!-- <hr style="border:0.9px ridge lightgray"> </hr> -->
 
-``` javascript
+<!-- ``` javascript
 const me = {
   
 
 }
 
-```
+``` -->
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
 <p style="color:orange"> 🛠️ Tools | Languages 💬</p>
+<code><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png" height="30"></code>
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
@@ -93,3 +94,13 @@ const me = {
 
 [github]: https://github.com/zicna
 [linkedin]: https://www.linkedin.com/feed/
+
+<!-- * resources -->
+<!-- *Github Stats: -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- * emojis -->
+<!-- https://emojidb.org/history-emojis -->
+<!-- * Markdown basic syntax -->
+<!--  https://dev.to/zicna/path-to-better-readmemd-through-markdown-syntax-42hd-->
+<!-- * Other resources -->
+<!-- https://dev.to/github/10-standout-github-profile-readmes-h2o -->
