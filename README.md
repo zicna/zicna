@@ -48,7 +48,7 @@ const me = {
 
 <!-- ! side by side pictures -->
 
-<spam><img style="align:left" width="35%" min-height="195px" src="https://github-readme-stats.vercel.app/api?username=zicna&show_icons=true&theme=radical" alt="GitHub stats"></spam><spam><img style="align:right" min-height="195px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicna&layout=compact&show_icons=true&theme=radical" alt="Most used Languages"></spam>
+<spam><img style="align:left" src="https://github-readme-stats.vercel.app/api?username=zicna&show_icons=true&theme=radical" alt="GitHub stats"></spam><spam margin-left="5px" ><img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicna&layout=compact&show_icons=true&theme=radical" alt="Most used Languages"></spam>
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
