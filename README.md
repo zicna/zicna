@@ -22,6 +22,20 @@ const me = {
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
+<p style="color:orange"> 😺 GitHub Stats  📈</p>
+
+
+
+![Zicna's GitHub stats](https://github-readme-stats.vercel.app/api?username=zicna&show_icons=true&theme=radical)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicna)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicna&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<hr style="border:0.9px ridge lightgray"> </hr>
+
+
 
 <p style="color:orange"> 🌱 currently working on:</p>
   
