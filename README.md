@@ -1,10 +1,3 @@
----
-title: "README.md"
-output:
-  html_document:
-    toc: true
-    toc_depth: 2
----
 
 
 <h4 style="text-align:center"> Hi there, I'm Milan 👋  </h4>
