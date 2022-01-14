@@ -1,6 +1,6 @@
 
 
-<h4 style="text-align:center"> Hi there, I'm Milan 👋  </h4>
+<h4 style="text-align:center"> <center>Hi there, I'm Milan 👋  </center></h4>
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
@@ -13,7 +13,7 @@ const me = {
   
 
 }
-// The reference doesn't change but I sure can 
+
 ```
 
 <hr style="border:0.9px ridge lightgray"> </hr>
