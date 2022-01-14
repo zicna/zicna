@@ -25,7 +25,9 @@
 <code><img style="margin-right:5px" height="35" width="39" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code"></code>
 <hr style="border:0.9px ridge lightgray"> </hr>
 <details>
-<summary>See more:</summary>
+<summary>See more/less:</summary>
+<hr style="border:0.9px ridge lightgray"> </hr>
+
 <p style="color:orange"> 😺 GitHub Stats  📈</p>
 <!-- * side by side pictures -->
 <div>
