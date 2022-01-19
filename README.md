@@ -2,9 +2,7 @@
 
 <hr style="border:0.9px ridge lightgray"> </hr>
 
-<!-- <p align="center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. </p> -->
-
-<p align="center">Forward-thinking Software Engineer, knowledgeable of backend and frontend development with background in Environmental Science. Eager to learn new skills. </p>
+<p align="center">Forward-thinking Software Developer with a background working productively in dynamic environments, looking forward to learning new skills. </p>
 
   <!-- <p> 🎭 Fun 💯 fact:  </p> -->
 
