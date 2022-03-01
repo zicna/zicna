@@ -44,24 +44,28 @@
 <hr style="border:0.9px ridge lightgray"> </hr>
 
 <p style="color:orange"> 🌱 currently working on:</p>
-  
-  - adding features to my projects
-  - solidified and expand skills
+
+  - [x] fixing readme.md files on my projects
+  - [ ] adding features to my projects
+  - [ ] solidified and expand skills
+
 
 <p style="color:orange"> 👉 Next on my learning list:</p>
 
-- Algorithms and data structure
-- AWS
-- Node.js
+- [x] CSS layouts, and responsive web design 
+- [ ] Build new React app (functional components only)
+- [ ] Algorithms and data structure
+- [ ] Java Programming language
+  
 
 <p style="color:orange">👯 I’m looking to:</p> 
   
-- collaborate with newies to software industry and learn more about algorithms and data structures
+- collaborate with newies to software industry and and start a career as a software developer 
 
 <p style="color:orange">🥅 2020 Goals:</p>
 
 - step into IT industry
-- learn a new language (Python)
+- learn a new language (Java, Python)
 
 <p style="color:orange">Hobbies:</p>
 
