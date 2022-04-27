@@ -53,9 +53,9 @@
 <p style="color:orange"> 👉 Next on my learning list:</p>
 
 - [x] CSS layouts, and responsive web design 
-- [ ] Build new React app (functional components only)
-- [ ] Algorithms and data structure
 - [ ] Java Programming language
+- [x] Build new React app (fn components, JWT and devise)
+- [ ] Algorithms and data structure
   
 
 <p style="color:orange">👯 I’m looking to:</p> 
@@ -66,6 +66,7 @@
 
 - step into IT industry
 - learn a new language (Java, Python)
+- run a marathon
 
 <p style="color:orange">Hobbies:</p>
 
